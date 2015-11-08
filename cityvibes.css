@@ -1,0 +1,5 @@
+/* add map as background for landing page*/
+	.jumbotron{background:url('backgroundmap.png')}
+
+/* change the colour of the background on the lower half of the screen*/
+	.col-md-4{background-color:#CECEF6}
