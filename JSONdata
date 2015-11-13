@@ -1,0 +1,11 @@
+
+<script>
+        var eventdata = 
+            '{
+	            "eventname": ["Sunday Market at Bastion Square","First Peoples Festival","Tickles the Clown and Family","Free B Film Festival"],
+	            "lat": [48.425902,48.423097,48.414025,48.414025],
+	            "long":[-123.369708,-123.369772,-123.364864,-123.364864]
+        	}'
+        var obj = JSON.parse(eventdata);
+
+</script>
